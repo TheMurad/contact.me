@@ -4,7 +4,7 @@
 ## 🔴 Live Demo
 Launch the experience:
 
-# [👉 themurad.github.io/contact.me](https://themurad.github.io/contact.me/)
+# [👉 murad-ismayil.github.io/contact.me/](https://murad-ismayil.github.io/contact.me/)
 
 -------
 ### 💻 Local Installation
@@ -20,4 +20,4 @@ If you want to play with the physics parameters locally:
 
 ---
 
-Designed & Developed by **[The Murad](https://github.com/themurad)**
+Designed & Developed by **[Murad I.](https://github.com/murad-ismayil)**
